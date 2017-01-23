@@ -6,12 +6,12 @@
 @description CanJS is an evolving and improving set of client side JavaScript architectural libraries that balances innovation and stability. It targets experienced developers building complex applications with long futures ahead of them.   
 
 <img
-    srcset="docs/images/home/Home-Tortoise-bw.png 1x, docs/images/home/Home-Tortoise-bw-x2.png 2x"
-    src="docs/images/home/Home-Tortoise-bw.png"
+    srcset="docs/images/home/Home-Tortoise-color.png 1x, docs/images/home/Home-Tortoise-color-x2.png 2x"
+    src="docs/images/home/Home-Tortoise-color.png"
     style="float:right; padding-right: 40px;"/>
 <img
-    srcset="docs/images/home/Home-Hare-bw.png 1x, docs/images/home/Home-Hare-bw-x2.png 2x"
-    src="docs/images/home/Home-Tortoise-bw.png" style="padding-left: 40px;"/>
+    srcset="docs/images/home/Home-Hare-color.png 1x, docs/images/home/Home-Hare-color-x2.png 2x"
+    src="docs/images/home/Home-Tortoise-color.png" style="padding-left: 40px;"/>
 
 If you’re new to the project, the best place to start is the [guides] page. There you’ll
 find CanJS’s [guides/mission Mission] and [guides/technical Technical Highlights], as well as
