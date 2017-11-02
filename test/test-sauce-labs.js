@@ -5,6 +5,10 @@ var testSauceLabs = require('test-saucelabs');
 
 // https://github.com/SeleniumHQ/selenium/wiki/DesiredCapabilities
 var platforms = [{
+	browserName: 'googlechrome',
+	platform: 'Windows 10',
+	version: 'latest'
+}, {
 	browserName: 'internet explorer',
 	platform: 'Windows 10',
 	version: '11.0'
@@ -17,10 +21,6 @@ var platforms = [{
 	platform: 'Windows 10'
 }, {
 	browserName: 'firefox',
-	platform: 'Windows 10',
-	version: 'latest'
-}, {
-	browserName: 'googlechrome',
 	platform: 'Windows 10',
 	version: 'latest'
 }];
